@@ -1,3 +1,0 @@
-pyhton
-python
-python3
